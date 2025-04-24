@@ -1,3 +1,7 @@
-Data/countries_with_nans.xlsx
-tableau_poulet.html
+.DS_Store
+*.png
+*.pbix
+*.ipynb
+Data/
 data.code-workspace
+tableau_poulet.html
